@@ -8,6 +8,22 @@
     "logoURI": "https://tokens.bscswap.com/images/0xae13d989daC2f0dEbFf460aC112a837C89BAa7cd.png"
   },
   {
+    "name": "Bollo Token",
+    "address": "0xd86872A287C7c9a0ac832b20c2394E26D97C86bD",
+    "symbol": "BOLO",
+    "decimals": 18,
+    "chainId": 97,
+    "logoURI": "https://tokens.bollo.me/images/0xd86872A287C7c9a0ac832b20c2394E26D97C86bD.png"
+  },
+  {
+    "name": "Bollo USD",
+    "address": "0xed0CdB9c9045013b1716931f42f64C2415d89A60",
+    "symbol": "BOUSD",
+    "decimals": 18,
+    "chainId": 97,
+    "logoURI": "https://tokens.bollo.me/images/0xed0CdB9c9045013b1716931f42f64C2415d89A60.png"
+  },  
+  {
     "name": "BTCB Token",
     "address": "0x6ce8dA28E2f864420840cF74474eFf5fD80E65B8",
     "symbol": "BTCB",
