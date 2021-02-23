@@ -1,4 +1,4 @@
-# @bscswap/default-token-list
+# @bolloswap/default-token-list
 
 [![Tests](https://github.com/bscswap/default-token-list/workflows/Tests/badge.svg)](https://github.com/bscswap/default-token-list/actions?query=workflow%3ATests)
 [![npm](https://img.shields.io/npm/v/@bscswap/default-token-list)](https://unpkg.com/@bscswap/default-token-list@latest/)
