@@ -24,6 +24,14 @@
     "logoURI": "https://tokens.bollo.me/images/0x60f1EBE7663386ea3a7F1B37683132740c6A11e6.png"
   },
   {
+    "name": "JVC-Peg JFIN",
+    "address": "0x8ad88bc768048596f58cd6572dbab979274faccb",
+    "symbol": " JFIN-T",
+    "decimals": 18,
+    "chainId": 56,
+    "logoURI": "https://tokens.bollo.me/images/0x8ad88bc768048596f58cd6572dbab979274faccb.png"
+  },
+  {
     "name": "BTCB Token",
     "address": "0x7130d2A12B9BCbFAe4f2634d864A1Ee1Ce3Ead9c",
     "symbol": "BTCB",
