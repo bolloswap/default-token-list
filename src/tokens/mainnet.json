@@ -16,6 +16,14 @@
     "logoURI": "https://tokens.bollo.me/images/0x1921168344840d1ca5acd82e8815f24582d4ad27.png"
   },
   {
+    "name": "Dopple Token",
+    "address": "0x844fa82f1e54824655470970f7004dd90546bb28",
+    "symbol": "DOP",
+    "decimals": 18,
+    "chainId": 56,
+    "logoURI": "https://tokens.bollo.me/images/0x844fa82f1e54824655470970f7004dd90546bb28.png"
+  },
+  {
     "name": "Bollo USD",
     "address": "0x60f1EBE7663386ea3a7F1B37683132740c6A11e6",
     "symbol": "BOUSD",
