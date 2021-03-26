@@ -1,7 +1,7 @@
 {
-  "name": "@bscswap/default-token-list",
-  "version": "1.9.29",
-  "description": "◦ The BSCswap default token list",
+  "name": "@bolloswap/default-token-list",
+  "version": "1.9.30",
+  "description": "◦ The bolloswap default token list",
   "main": "build/tokens.json",
   "scripts": {
     "test": "mocha",
@@ -13,10 +13,10 @@
   ],
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/bscswap/default-token-list.git"
+    "url": "git+https://github.com/bolloswap/default-token-list.git"
   },
   "keywords": [
-    "bscswap",
+    "bolloswap",
     "default",
     "token",
     "list"
@@ -24,9 +24,9 @@
   "author": "Moody Salem",
   "license": "GPL-3.0-or-later",
   "bugs": {
-    "url": "https://github.com/bscswap/default-token-list/issues"
+    "url": "https://github.com/bolloswap/default-token-list/issues"
   },
-  "homepage": "https://github.com/bscswap/default-token-list#readme",
+  "homepage": "https://github.com/bolloswap/default-token-list#readme",
   "devDependencies": {
     "@ethersproject/address": "^5.0.2",
     "@uniswap/token-lists": "^1.0.0-beta.8",

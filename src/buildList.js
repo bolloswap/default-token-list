@@ -13,7 +13,7 @@ module.exports = function buildList() {
       'patch': +parsed[ 2 ]
     },
     'tags': {},
-    'logoURI': 'https://tokens.bscswap.com/images/0xbb4CdB9CBd36B01bD1cBaEBF2De08d9173bc095c.png',
+    'logoURI': 'https://tokens.bollo.me/images/0xbb4CdB9CBd36B01bD1cBaEBF2De08d9173bc095c.png',
     'keywords': [
       'bscswap',
       'default'
